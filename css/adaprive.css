@@ -1,4 +1,4 @@
-@media screen and (max-width:1420px) {
+@media screen and (max-width:1410px) {
     .product-advertising:last-child {
         display: none;
     }
@@ -12,17 +12,17 @@
     }
 
     .nav__item:not(:last-child) {
-        margin-right: 30px;
+        margin-right: 20px;
     }
 
     .header__auth,
     .header__cart {
-        margin-left: 30px;
+        margin-left: 20px;
     }
 
     .products-nav .grid-container {
-        max-width            : 940px;
-        margin-top           : 60px;
+        max-width            : 920px;
+        margin-top           : 50px;
         display              : grid;
         grid-template-columns: 1fr 1fr;
         grid-template-rows   : 1fr 1fr 1fr 1fr;
@@ -36,29 +36,29 @@
     }
 
     .advantages-cards_card {
-        margin-right: 10px;
+        margin-right: 9px;
     }
 
     .card-slider {
-        width: 500px;
+        width: 400px;
     }
 
     .swiper-slide .swiper-slide-active {
-        max-width: 488px;
+        max-width: 480px;
     }
 
     .vendor,
     .price,
     .available {
-        margin-bottom: 20px;
+        margin-bottom: 15px;
     }
 
 }
 
 @media screen and (max-width:990px) {
     .header__logo {
-        font-size  : 24px;
-        margin-left: 80px;
+        font-size  : 22px;
+        margin-left: 70px;
     }
 
     .header__wrapper {
@@ -84,27 +84,27 @@
     }
 
     .product-text {
-        font-size: 12px;
+        font-size: 10px;
     }
 
     .product-advertising .product-info {
-        font-size: 14px;
+        font-size: 12px;
     }
 
 
     .product-advertising .product-name,
     .product-advertising .product-text {
-        margin-bottom: 10px;
+        margin-bottom: 8px;
     }
 
     .products-nav .grid-container,
     .about-us {
-        margin-top: 30px
+        margin-top: 20px
     }
 
     .about-us {
-        padding-top   : 30px;
-        padding-bottom: 30px;
+        padding-top   : 20px;
+        padding-bottom: 20px;
     }
 
     .about-us_wrapper {

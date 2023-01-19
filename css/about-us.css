@@ -1,10 +1,10 @@
 .about-us {
     background   : linear-gradient(127deg, rgba(246, 246, 246, 1) 0%, rgba(214, 214, 214, 1) 100%);
-    min-height   : 500px;
+    min-height   : 600px;
     width        : 100%;
-    padding-top  : 80px;
-    margin-top   : 60px;
-    margin-bottom: 20px;
+    padding-top  : 90px;
+    margin-top   : 50px;
+    margin-bottom: 22px;
 }
 
 .about-us_wrapper {
@@ -17,21 +17,21 @@
 }
 
 .about-us_video img {
-    width       : 526px;
-    height      : 306px;
+    width       : 523px;
+    height      : 304px;
     object-fit  : cover;
-    margin-right: 20px;
+    margin-right: 22px;
 }
 
 .about-us_text {
     max-width     : 600px;
-    line-height   : 18px;
+    line-height   : 16px;
     text-transform: uppercase;
-    font-size     : 16px;
+    font-size     : 14px;
 }
 
 .about-us_text p {
-    max-width: 500px;
+    max-width: 400px;
 }
 
 .about-us_button {
